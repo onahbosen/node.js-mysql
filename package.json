@@ -1,0 +1,23 @@
+{
+  "name": "node.js-mysql",
+  "version": "1.0.0",
+  "description": "this is an interactive storefront app that takes in orders and depletes stock follow the prompts to see it work!",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/onahbosen/node.js-mysql.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/onahbosen/node.js-mysql/issues"
+  },
+  "homepage": "https://github.com/onahbosen/node.js-mysql#readme",
+  "dependencies": {
+    "inquirer": "^6.3.1",
+    "mysql": "^2.16.0"
+  }
+}
